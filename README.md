@@ -1,3 +1,3 @@
-# DiscoverAI-SP22-Group-1
+# DiscoverAI-SP22-Projects-Group-1
 
 ##Project Idea
